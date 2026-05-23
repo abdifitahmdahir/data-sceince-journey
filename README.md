@@ -1,2 +1,2 @@
 # data-sceince-journey
-My Data Science learning path - Python, SQL, Statistics, Machine Learning
+My Data Science learning path Python, SQL, Statistics, Machine Learning
